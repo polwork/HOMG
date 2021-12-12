@@ -2,19 +2,19 @@
 
 Matlab implementation of ISPRS paper "Histograms of oriented mosaic gradients for snapshot spectral image description"
 
-[Download the Paper] 
+##[Download the Paper] 
 
 
 https://www.sciencedirect.com/science/article/pii/S0924271621002860
 
 
 
-[Download the Mosaic Tracking Dataset]
+##[Download the Mosaic Tracking Dataset]
 
 We offer the following ways to download the IMEC25 dataset.
 Baidu YunPan (https://pan.baidu.com/s/1lTsInVr1cLVdZXsrI9ibBw Extraction code: cl25 )
 
-[Download the mosaic_IMEC25.mat
+##[Download the mosaic_IMEC25.mat
 Baidu YunPan：https://pan.baidu.com/s/1M5b8vKkoIVfoWr2DkUMM5A  Extraction code: cl25
 
 
@@ -22,7 +22,7 @@ If you have any question, please contact ：cll2018@mail.nwpu.edu.cn
 
 
 
-[Citation]
+##[Citation]
 
 [Plain Text]: L. Chen, Y. Zhao, J. C.-W. Chan, S. G. Kong, Histograms of oriented mosaic gradients for snapshot spectral image description. ISPRS Journal of Photogrammetry and Remote Sensing,(2022), 183, 79–93, doi:10.1016/j.isprsjprs.2021.10.018.
 
