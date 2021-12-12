@@ -5,8 +5,6 @@ Matlab implementation of ISPRS paper "Histograms of oriented mosaic gradients fo
 [Download the Paper] 
 
 
-Content Description
-
 https://www.sciencedirect.com/science/article/pii/S0924271621002860
 
 
